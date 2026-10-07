@@ -129,7 +129,7 @@ Atualmente atuo com tecnologia educacional, desenvolvendo projetos de pensamento
 • Style Hub — hub de bibliotecas UI com sandbox de componentes (Next.js + Framer Motion)
 • OdontoPro — SaaS para clínicas odontológicas (Next.js + Prisma + PostgreSQL)
 • App Finanças — gestão financeira pessoal (Next.js + Recharts)
-• Control School — gestão multi-escolar (Next.js + Supabase)
+• Control School — gestão multi-escolar (Laravel 13 + Next.js 16, 19 endpoints e 119 arquivos TS/TSX)
 
 Principais ferramentas:
 Next.js · TypeScript · Tailwind CSS · Framer Motion · Node.js · NestJS · Python · Laravel · PostgreSQL · Prisma

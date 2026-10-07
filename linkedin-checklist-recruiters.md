@@ -144,7 +144,7 @@ Escolha **uma** (recrutadores buscam por palavras-chave):
 **Onde:** No topo do perfil, seção **"Recursos"** → **"Adicionar"** → **"Links"**
 
 - [ ] **Style Hub** → https://github.com/LucasCastro100/style-hub
-  - Título: *Style Hub — Hub de bibliotecas UI turísticas*
+  - Título: *Style Hub — Hub de bibliotecas UI + sandbox de componentes*
   - Descrição: *Diretório de 30+ bibliotecas + sandbox de componentes com previews interativos.*
 - [ ] **OdontoPro** → https://github.com/LucasCastro100/odontopro
   - Título: *OdontoPro — SaaS para clínicas odontológicas*
