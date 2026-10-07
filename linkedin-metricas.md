@@ -120,7 +120,7 @@
 
 ---
 
-## 8) Python — `pyton` + `pyton-projects` + `register-students`
+## 8) Python — `pyton` + `register-students`
 
 | Métrica | Valor |
 |---|---|

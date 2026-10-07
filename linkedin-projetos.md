@@ -123,21 +123,7 @@ Stack: Python 3 · Selenium · pandas · python-dotenv · ThreadPoolExecutor
 
 ---
 
-## 8. pyton-projects — Automações e análise de dados
-- **Tipo:** Pessoal · **Período:** em andamento
-- **Link:** 🔒 *sem link — repositório privado*
-
-```
-Suíte de automações e análises: raspagem e preenchimento de formulários com Selenium,
-dashboards interativos em Streamlit/Plotly (análise de livros e peças automotivas com
-PCA/CAP/BAP), geração de recibos em PDF, consumo de APIs e GUI com PySide6.
-
-Stack: Python 3 · Pandas · Streamlit · Plotly · Selenium · FPDF · PySide6
-```
-
----
-
-## 9. Style Hub — Hub de bibliotecas UI
+## 8. Style Hub — Hub de bibliotecas UI
 - **Tipo:** Pessoal · **Período:** set/2026
 - **Link:** https://github.com/LucasCastro100/style-hub
 
@@ -152,7 +138,7 @@ Stack: Next.js 16 · React · Framer Motion · Tailwind CSS
 
 ---
 
-## 10. App Finanças — Gestão financeira pessoal
+## 9. App Finanças — Gestão financeira pessoal
 - **Tipo:** Pessoal · **Período:** ago/2026
 - **Link:** https://github.com/LucasCastro100/app-financas
 
@@ -166,7 +152,7 @@ Stack: Next.js · Recharts · shadcn/ui · Tailwind CSS
 
 ---
 
-## 11. Base Next.js — Template de projeto
+## 10. Base Next.js — Template de projeto
 - **Tipo:** Pessoal · **Período:** ago/2026
 - **Link:** https://github.com/LucasCastro100/base-nextjs
 
@@ -179,7 +165,7 @@ Stack: Next.js · TypeScript · shadcn/ui · Zod · Recharts
 
 ---
 
-## 12. Cola Componente — Referência de componentes
+## 11. Cola Componente — Referência de componentes
 - **Tipo:** Pessoal · **Período:** set/2026
 - **Link:** https://github.com/LucasCastro100/cola-componente
 
@@ -192,7 +178,7 @@ Stack: Next.js · React · Tailwind CSS
 
 ---
 
-## 13. pyton — Fundamentos de Python
+## 12. pyton — Fundamentos de Python
 - **Tipo:** Pessoal · **Período:** jan/2025 – atual
 - **Link:** https://github.com/LucasCastro100/pyton
 
@@ -208,7 +194,7 @@ Stack: Python 3 · Tkinter · MySQL · MongoDB · Matplotlib · Requests
 
 ---
 
-## 14. LinkedIn Toolkit — Guias de otimização de perfil
+## 13. LinkedIn Toolkit — Guias de otimização de perfil
 - **Tipo:** Pessoal · **Período:** out/2026
 - **Link:** https://github.com/LucasCastro100/linkedin
 
@@ -237,9 +223,8 @@ Use só as 3 primeiras linhas de cada descrição acima.
 5. Neuro Comunicação
 6. Calendário Unificado
 7. register-students
-8. pyton-projects
-9. Style Hub
-10. App Finanças
+8. Style Hub
+9. App Finanças
 
 > Dica: os **4 primeiros** já bastam se você quiser um perfil mais enxuto.
 
