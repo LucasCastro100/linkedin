@@ -3,8 +3,8 @@
 > **Como adicionar:** LinkedIn → **Ver perfil** → **Adicionar seção** → **Projetos**
 > → preencha **Nome**, **Tipo: Pessoal**, **Início/Fim**, **Descrição** e **Link**.
 >
-> ⚠️ 7 repositórios estão **privados** — o link só abre pra quem tem acesso (você).
-> Deixo marcado com 🔒. Se quiser que o recrutador veja o código, torne o repo público.
+> ⚠️ Os projetos marcados com 🔒 têm repositório **privado**: **não preencha o campo
+> de link** (vamos apenas listar o projeto). Os demais têm link público.
 
 ---
 
@@ -30,7 +30,7 @@ Stack: Laravel 12 · Livewire 3 · Jetstream · Tailwind CSS · Chart.js · DomP
 
 ## 2. Clubset — Marketplace de permuta audiovisual
 - **Tipo:** Pessoal · **Período:** em andamento
-- **Link:** 🔒 https://github.com/LucasCastro100/clubset *(repo privado)*
+- **Link:** 🔒 *sem link — repositório privado*
 
 ```
 Marketplace de permuta (barter) para o mercado audiovisual, com matches, livro-razão
@@ -80,7 +80,7 @@ Stack: Next.js 16 · Prisma 7 · PostgreSQL · Auth.js · TypeScript
 
 ## 5. Neuro Comunicação — Plataforma EAD/LMS
 - **Tipo:** Pessoal · **Período:** em andamento
-- **Link:** 🔒 https://github.com/LucasCastro100/neurocomunicacaobrasil *(repo privado)*
+- **Link:** 🔒 *sem link — repositório privado*
 
 ```
 Plataforma de ensino a distância com 3 painéis (admin, professor e aluno),
@@ -95,7 +95,7 @@ Stack: Laravel 11 · Blade · DomPDF · Stripe · SQLite
 
 ## 6. Calendário Unificado — Agendas externas em um só lugar
 - **Tipo:** Pessoal · **Período:** em andamento
-- **Link:** 🔒 https://github.com/LucasCastro100/calendario-unificado *(repo privado)*
+- **Link:** 🔒 *sem link — repositório privado*
 
 ```
 Aplicação que unifica agendas externas numa única visão. O backend Laravel expõe a
@@ -111,7 +111,7 @@ Stack: Laravel 12 · Sanctum · Socialite · Next.js 16 · FullCalendar · TanSt
 
 ## 7. register-students — Automação de cadastro em paralelo
 - **Tipo:** Pessoal · **Período:** em andamento
-- **Link:** 🔒 https://github.com/LucasCastro100/register-students *(repo privado)*
+- **Link:** 🔒 *sem link — repositório privado*
 
 ```
 Automação que lê uma planilha Excel, abre vários navegadores Chrome em paralelo
@@ -125,7 +125,7 @@ Stack: Python 3 · Selenium · pandas · python-dotenv · ThreadPoolExecutor
 
 ## 8. pyton-projects — Automações e análise de dados
 - **Tipo:** Pessoal · **Período:** em andamento
-- **Link:** 🔒 https://github.com/LucasCastro100/pyton-projects *(repo privado)*
+- **Link:** 🔒 *sem link — repositório privado*
 
 ```
 Suíte de automações e análises: raspagem e preenchimento de formulários com Selenium,
@@ -210,10 +210,10 @@ Stack: Python 3 · Tkinter · MySQL · MongoDB · Matplotlib · Requests
 
 ## 14. LinkedIn Toolkit — Guias de otimização de perfil
 - **Tipo:** Pessoal · **Período:** out/2026
-- **Link:** 🔒 https://github.com/LucasCastro100/linkedin *(repo privado)*
+- **Link:** 🔒 *sem link — repositório privado*
 
 ```
-Pacote de guas, checklists e textos prontos para montar perfil no LinkedIn:
+Pacote de guias, checklists e textos prontos para montar perfil no LinkedIn:
 título, "Sobre", experiência, habilidades, destaques e métricas reais extraídas
 do código.
 
@@ -245,12 +245,20 @@ Use só as 3 primeiras linhas de cada descrição acima.
 
 ---
 
-## 🔗 Sobre os links quebrados
+## 🔗 Quem leva link e quem não leva
 
-| Repo | Visível pra recrutador? |
-|---|---|
-| ideias_dev, control-school-back, control-school-front, odontopro, style-hub, app-financas, base-nextjs, cola-componente, pyton | ✅ Sim (público) |
-| clubset, calendario-unificado, neurocomunicacaobrasil, register-students, pyton-projects, linkedin, rcstudio | ❌ Não (privado — 404) |
+**✅ Preenche o campo Link (repo público):**
 
-Para liberar: GitHub → repo → **Settings** → zona mais embaixo **Danger Zone** →
-**Change repository visibility** → **Make public**. Ou peça pra mim.
+`ideias_dev` · `control-school-back` · `control-school-front` · `odontopro` ·
+`style-hub` · `app-financas` · `base-nextjs` · `cola-componente` · `pyton`
+
+**🔒 Lista o projeto mas deixa o campo Link VAZIO (repo privado):**
+
+`clubset` · `calendario-unificado` · `neurocomunicacaobrasil` ·
+`register-students` · `pyton-projects` · `linkedin`
+
+> Motivo: um link que dá 404 no perfil do candidato passa impressão de "projeto
+> inexistente". Melhor listá-lo sem link — a descrição com métricas já faz o trabalho.
+
+**Se um dia quiser liberar o link:** GitHub → repo → **Settings** → **Danger Zone** →
+**Change repository visibility** → **Make public**.
