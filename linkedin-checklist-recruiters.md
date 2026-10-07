@@ -74,9 +74,11 @@ Escolha **uma** (recrutadores buscam por palavras-chave):
   ```
   Desenvolvedor Full-Stack há 8 anos, especializado em Next.js, Node.js e automações com Python.
 
+  São ~213 mil linhas de código próprio em 14 repositórios públicos — de uma plataforma com 22 sistemas de gestão em Laravel/Livewire a SaaS em Next.js + Prisma e automações em Python.
+
   Atendo desde landing pages institucionais até SaaS completos: React/Next.js com App Router, TypeScript, Tailwind CSS, Framer Motion (UI ultra-animada), Node.js/NestJS e PostgreSQL no backend, além de automações com Python e n8n.
 
-  Hoje atuo com tecnologia educacional — projetos de pensamento computacional para crianças de 3 a 16 anos — e em paralelo desenvolvo meus próprios produtos (Style Hub, OdontoPro, App Finanças).
+  Hoje atuo com tecnologia educacional — projetos de pensamento computacional para crianças de 3 a 16 anos — e em paralelo desenvolvo meus próprios produtos (Ideias.dev.br, Clubset, Control School, OdontoPro).
 
   📌 Ferramentas: Next.js · TypeScript · Tailwind · Framer Motion · Node.js · NestJS · Python · Laravel · PostgreSQL · Prisma
 
@@ -143,18 +145,24 @@ Escolha **uma** (recrutadores buscam por palavras-chave):
 
 **Onde:** No topo do perfil, seção **"Recursos"** → **"Adicionar"** → **"Links"**
 
-- [ ] **Style Hub** → https://github.com/LucasCastro100/style-hub
-  - Título: *Style Hub — Hub de bibliotecas UI + sandbox de componentes*
-  - Descrição: *Diretório de 30+ bibliotecas + sandbox de componentes com previews interativos.*
+- [ ] **Ideias.dev.br** → https://github.com/LucasCastro100/ideias_dev
+  - Título: *Ideias.dev.br — 22 sistemas de gestão numa plataforma*
+  - Descrição: *Laravel + Livewire: 75 tabelas, 90 rotas, ~39.500 linhas.*
+- [ ] **Clubset** → https://github.com/LucasCastro100/clubset
+  - Título: *Clubset — Marketplace de permuta audiovisual*
+  - Descrição: *Stripe, 2FA e passkeys; 68 rotas, 35 tabelas, 38 páginas React.*
+- [ ] **Control School** → https://github.com/LucasCastro100/control-school-back
+  - Título: *Control School — Gestão multi-escolar*
+  - Descrição: *API Laravel com 19 endpoints + frontend Next.js 16 (119 arquivos TS/TSX).*
 - [ ] **OdontoPro** → https://github.com/LucasCastro100/odontopro
   - Título: *OdontoPro — SaaS para clínicas odontológicas*
-  - Descrição: *Next.js + Prisma + PostgreSQL, com landing e painel.*
-- [ ] **App Finanças** → https://github.com/LucasCastro100/app-financas
-  - Título: *App Finanças — Gestão financeira pessoal*
-  - Descrição: *Dashboard de receitas/despesas com Recharts.*
-- [ ] **Control School** → https://github.com/LucasCastro100/control-school
-  - Título: *Control School — Gestão multi-escolar*
-  - Descrição: *Turmas, salas, alunos e horários.*
+  - Descrição: *Next.js 16 + Prisma 7 + PostgreSQL, com landing e painel.*
+- [ ] **Calendário Unificado** → https://github.com/LucasCastro100/calendario-unificado
+  - Título: *Calendário Unificado — agendas externas integradas*
+  - Descrição: *Laravel 12 + Next.js com OAuth de calendários externos (15 rotas de API).*
+- [ ] **register-students** → https://github.com/LucasCastro100/register-students
+  - Título: *register-students — automação em Python*
+  - Descrição: *Selenium + pandas + geração de cartões em PDF.*
 
 > 💡 **Destaques são a vitrine do perfil** — recrutador clica aqui antes da experiência. Link direto para código = prova prática do que você sabe fazer.
 
@@ -223,7 +231,7 @@ Escolha **uma** (recrutadores buscam por palavras-chave):
 - [ ] Experiências com descrição
 - [ ] Educação preenchida
 - [ ] 10+ habilidades com 3 destacadas
-- [ ] 4 destaques (projetos GitHub)
+- [ ] 6 destaques (projetos GitHub)
 - [ ] Certificações
 - [ ] Idiomas
 - [ ] URL personalizada

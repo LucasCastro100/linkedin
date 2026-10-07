@@ -125,11 +125,16 @@ Comecei em sites institucionais com HTML, CSS e PHP e evolui para o ecossistema 
 
 Além do desenvolvimento, tenho forte atuação em automação: fluxos com Python e n8n para reduzir trabalho manual e gerar relatórios de Meta e Google Ads.
 
+Em números, extraídos do meu código: ~213 mil linhas próprias em 14 repositórios públicos,
+22 sistemas de gestão numa única plataforma Laravel/Livewire (75 tabelas, 90 rotas),
+e 96 scripts Python de automação.
+
 Atualmente atuo com tecnologia educacional, desenvolvendo projetos de pensamento computacional para crianças de 3 a 16 anos, e em paralelo mantenho produtos próprios:
-• Style Hub — hub de bibliotecas UI com sandbox de componentes (Next.js + Framer Motion)
-• OdontoPro — SaaS para clínicas odontológicas (Next.js + Prisma + PostgreSQL)
-• App Finanças — gestão financeira pessoal (Next.js + Recharts)
+• Ideias.dev.br — 22 sistemas de gestão numa plataforma só (Laravel 12 + Livewire + Jetstream)
+• Clubset — marketplace de permuta audiovisual com Stripe, 2FA e passkeys (Laravel 13 + React)
 • Control School — gestão multi-escolar (Laravel 13 + Next.js 16, 19 endpoints e 119 arquivos TS/TSX)
+• OdontoPro — SaaS para clínicas odontológicas (Next.js 16 + Prisma + PostgreSQL)
+• register-students — automação de cadastro de alunos com Selenium + PDF (Python)
 
 Principais ferramentas:
 Next.js · TypeScript · Tailwind CSS · Framer Motion · Node.js · NestJS · Python · Laravel · PostgreSQL · Prisma
