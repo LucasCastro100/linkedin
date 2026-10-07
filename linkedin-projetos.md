@@ -95,7 +95,7 @@ Stack: Laravel 11 · Blade · DomPDF · Stripe · SQLite
 
 ## 6. Calendário Unificado — Agendas externas em um só lugar
 - **Tipo:** Pessoal · **Período:** em andamento
-- **Link:** 🔒 *sem link — repositório privado*
+- **Link:** https://github.com/LucasCastro100/calendario-unificado
 
 ```
 Aplicação que unifica agendas externas numa única visão. O backend Laravel expõe a
@@ -111,7 +111,7 @@ Stack: Laravel 12 · Sanctum · Socialite · Next.js 16 · FullCalendar · TanSt
 
 ## 7. register-students — Automação de cadastro em paralelo
 - **Tipo:** Pessoal · **Período:** em andamento
-- **Link:** 🔒 *sem link — repositório privado*
+- **Link:** https://github.com/LucasCastro100/register-students
 
 ```
 Automação que lê uma planilha Excel, abre vários navegadores Chrome em paralelo
@@ -210,7 +210,7 @@ Stack: Python 3 · Tkinter · MySQL · MongoDB · Matplotlib · Requests
 
 ## 14. LinkedIn Toolkit — Guias de otimização de perfil
 - **Tipo:** Pessoal · **Período:** out/2026
-- **Link:** 🔒 *sem link — repositório privado*
+- **Link:** https://github.com/LucasCastro100/linkedin
 
 ```
 Pacote de guias, checklists e textos prontos para montar perfil no LinkedIn:
@@ -250,12 +250,12 @@ Use só as 3 primeiras linhas de cada descrição acima.
 **✅ Preenche o campo Link (repo público):**
 
 `ideias_dev` · `control-school-back` · `control-school-front` · `odontopro` ·
-`style-hub` · `app-financas` · `base-nextjs` · `cola-componente` · `pyton`
+`style-hub` · `app-financas` · `base-nextjs` · `cola-componente` · `pyton` ·
+`calendario-unificado` · `register-students` · `linkedin`
 
 **🔒 Lista o projeto mas deixa o campo Link VAZIO (repo privado):**
 
-`clubset` · `calendario-unificado` · `neurocomunicacaobrasil` ·
-`register-students` · `pyton-projects` · `linkedin`
+`clubset` · `neurocomunicacaobrasil` · `rcstudio`
 
 > Motivo: um link que dá 404 no perfil do candidato passa impressão de "projeto
 > inexistente". Melhor listá-lo sem link — a descrição com métricas já faz o trabalho.
