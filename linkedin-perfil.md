@@ -28,7 +28,7 @@ Desenvolvedor Full-Stack | SaaS & Landing Pages | Automações com n8n e Python
 
 Desenvolvedor Full-Stack há 8 anos, especializado em **Next.js, Node.js e automações com Python**.
 
-São **~213 mil linhas de código próprio** em **14 repositórios públicos** — de uma plataforma com **22 sistemas de gestão** dentro do mesmo Laravel/Livewire a SaaS em Next.js + Prisma e automações em Python.
+São **~213 mil linhas de código próprio** em **18 repositórios (15 públicos)** — de uma plataforma com **22 sistemas de gestão** dentro do mesmo Laravel/Livewire a SaaS em Next.js + Prisma e automações em Python.
 
 Comecei criando sites institucionais com HTML, CSS e PHP e evoluí para o ecossistema JavaScript/TypeScript — construindo aplicações web modernas com Next.js, Tailwind CSS e bibliotecas de animação como Framer Motion.
 
@@ -41,7 +41,7 @@ Atualmente atuo com **tecnologia educacional**, desenvolvendo projetos de pensam
 - 🧩 **Backend** — APIs com Node.js, NestJS e Laravel
 
 ### Em números (do meu código)
-- **~213.000 linhas** de código próprio em **14 repositórios públicos**
+- **~213.000 linhas** de código próprio em **18 repositórios** (15 públicos)
 - **22 sistemas de gestão** numa única plataforma Laravel/Livewire (75 tabelas, 90 rotas)
 - Produto full-stack com **2FA (TOTP) + Passkeys (WebAuthn) + Stripe**
 - API com **19 endpoints** + frontend Next.js 16 com **119 arquivos TypeScript**
@@ -66,17 +66,17 @@ Adicione os projetos públicos ao perfil na seção **"Em destaque"** (ordem por
 
 1. **Ideias.dev.br** → https://github.com/LucasCastro100/ideias_dev
    - *22 sistemas de gestão numa única plataforma Laravel/Livewire — 75 tabelas, 90 rotas.*
-2. **Clubset** → https://github.com/LucasCastro100/clubset
-   - *Marketplace de permuta com Stripe, 2FA e passkeys — 68 rotas, 38 páginas React.*
-3. **Control School** → https://github.com/LucasCastro100/control-school-back
+2. **Control School** → https://github.com/LucasCastro100/control-school-back
    - *Gestão escolar full-stack — API Laravel (19 endpoints) + frontend Next.js 16.*
-4. **OdontoPro** → https://github.com/LucasCastro100/odontopro
+3. **OdontoPro** → https://github.com/LucasCastro100/odontopro
    - *SaaS odontológico — Next.js 16 + Prisma 7 + PostgreSQL.*
-5. **Calendário Unificado** → https://github.com/LucasCastro100/calendario-unificado
+4. **Calendário Unificado** → https://github.com/LucasCastro100/calendario-unificado
    - *Laravel 12 + Next.js com integração OAuth de agendas externas.*
-6. **register-students** → https://github.com/LucasCastro100/register-students
+5. **register-students** → https://github.com/LucasCastro100/register-students
    - *Automação Python (Selenium + pandas) com geração de cartões em PDF.*
 
+> ⚠️ **Clubset** não entra nos destaques porque o repositório é **privado** — o link daria 404
+> pra recrutador. Ele aparece só na seção **Projetos**, sem link.
 > ⚠️ O link antigo `github.com/LucasCastro100/control-school` é o repo agregador velho.
 > O certo é `control-school-back` (API) e `control-school-front` (UI).
 
@@ -108,7 +108,7 @@ Use os números **contados no código** — lista completa e pronta em [`linkedi
 | **Control School** | 19 endpoints · 119 arquivos TS/TSX · ~20.600 linhas |
 | **OdontoPro** | 9 models Prisma · ~20.500 linhas |
 | **Python (total)** | 96 scripts · ~2.870 linhas · 7 subprojetos |
-| **Portfólio geral** | ~213.000 linhas · 2.125 arquivos · 14 repositórios públicos |
+| **Portfólio geral** | ~213.000 linhas · 2.125 arquivos · 18 repositórios (15 públicos) |
 
 ---
 

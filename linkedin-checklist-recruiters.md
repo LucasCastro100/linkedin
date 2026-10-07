@@ -74,7 +74,7 @@ Escolha **uma** (recrutadores buscam por palavras-chave):
   ```
   Desenvolvedor Full-Stack há 8 anos, especializado em Next.js, Node.js e automações com Python.
 
-  São ~213 mil linhas de código próprio em 14 repositórios públicos — de uma plataforma com 22 sistemas de gestão em Laravel/Livewire a SaaS em Next.js + Prisma e automações em Python.
+  São ~213 mil linhas de código próprio em 18 repositórios (15 públicos) — de uma plataforma com 22 sistemas de gestão em Laravel/Livewire a SaaS em Next.js + Prisma e automações em Python.
 
   Atendo desde landing pages institucionais até SaaS completos: React/Next.js com App Router, TypeScript, Tailwind CSS, Framer Motion (UI ultra-animada), Node.js/NestJS e PostgreSQL no backend, além de automações com Python e n8n.
 
@@ -148,9 +148,6 @@ Escolha **uma** (recrutadores buscam por palavras-chave):
 - [ ] **Ideias.dev.br** → https://github.com/LucasCastro100/ideias_dev
   - Título: *Ideias.dev.br — 22 sistemas de gestão numa plataforma*
   - Descrição: *Laravel + Livewire: 75 tabelas, 90 rotas, ~39.500 linhas.*
-- [ ] **Clubset** → https://github.com/LucasCastro100/clubset
-  - Título: *Clubset — Marketplace de permuta audiovisual*
-  - Descrição: *Stripe, 2FA e passkeys; 68 rotas, 35 tabelas, 38 páginas React.*
 - [ ] **Control School** → https://github.com/LucasCastro100/control-school-back
   - Título: *Control School — Gestão multi-escolar*
   - Descrição: *API Laravel com 19 endpoints + frontend Next.js 16 (119 arquivos TS/TSX).*
@@ -163,6 +160,8 @@ Escolha **uma** (recrutadores buscam por palavras-chave):
 - [ ] **register-students** → https://github.com/LucasCastro100/register-students
   - Título: *register-students — automação em Python*
   - Descrição: *Selenium + pandas + geração de cartões em PDF.*
+
+> ⚠️ **Clubset** fica de fora dos destaques: repositório **privado** = link daria 404. Está apenas na seção **Projetos**, sem link.
 
 > 💡 **Destaques são a vitrine do perfil** — recrutador clica aqui antes da experiência. Link direto para código = prova prática do que você sabe fazer.
 
@@ -231,7 +230,7 @@ Escolha **uma** (recrutadores buscam por palavras-chave):
 - [ ] Experiências com descrição
 - [ ] Educação preenchida
 - [ ] 10+ habilidades com 3 destacadas
-- [ ] 6 destaques (projetos GitHub)
+- [ ] 5 destaques (projetos GitHub)
 - [ ] Certificações
 - [ ] Idiomas
 - [ ] URL personalizada

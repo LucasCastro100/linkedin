@@ -125,7 +125,7 @@ Comecei em sites institucionais com HTML, CSS e PHP e evolui para o ecossistema 
 
 Além do desenvolvimento, tenho forte atuação em automação: fluxos com Python e n8n para reduzir trabalho manual e gerar relatórios de Meta e Google Ads.
 
-Em números, extraídos do meu código: ~213 mil linhas próprias em 14 repositórios públicos,
+Em números, extraídos do meu código: ~213 mil linhas próprias em 18 repositórios (15 públicos),
 22 sistemas de gestão numa única plataforma Laravel/Livewire (75 tabelas, 90 rotas),
 e 96 scripts Python de automação.
 

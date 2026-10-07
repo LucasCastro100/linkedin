@@ -138,7 +138,7 @@
 
 | Métrica | Valor |
 |---|---|
-| **Repositórios públicos no GitHub** | **14** |
+| **Repositórios no GitHub** | **18** (15 públicos + 3 privados) |
 | **Linhas de código próprias** (sem WordPress/vendor/node_modules) | **~213.000** |
 | **Arquivos de código** | **~2.125** |
 | **Stacks dominadas** | PHP/Laravel, TypeScript/Next.js, Python |
@@ -151,7 +151,7 @@
 ### No "Sobre" (versão curta com métrica)
 ```
 Desenvolvedor Full-Stack há 8 anos, especializado em Next.js, Node.js e automações com Python.
-São ~213 mil linhas de código em 14 repositórios públicos — de uma plataforma com 22 sistemas
+São ~213 mil linhas de código em 18 repositórios (15 públicos) — de uma plataforma com 22 sistemas
 de gestão em Laravel/Livewire a SaaS em Next.js + Prisma e automações em Python/Selenium.
 ```
 
